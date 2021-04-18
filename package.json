@@ -9,6 +9,6 @@
   "author": "kikibyk",
   "license": "ISC",
   "dependencies": {
-    "vk-io": "^4.1.1"
+    "vk-io": "^4.0.0-rc.30"
   }
 }
